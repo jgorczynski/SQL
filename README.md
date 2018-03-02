@@ -1,3 +1,3 @@
 # SQL
 database stuff
-powered by SQL Server 2016
+powered by SQL Server 2017
