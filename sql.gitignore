@@ -1,0 +1,7 @@
+#ignore files from khanacademy
+
+tempsql/solarsystem.sql
+
+#..or from Hackerrank
+
+tempsql/hackerrank_sql
