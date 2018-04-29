@@ -17,3 +17,5 @@ SELECT P.Name Product, P.ListPrice, PSC.Name SubCategory,
 FROM Production.Product P JOIN Production.ProductSubcategory PSC
     ON P.ProductSubcategoryID = PSC.ProductSubcategoryID
 WHERE ListPrice between 255 and 500 
+
+--written by sqlpedia.pl author
